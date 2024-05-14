@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharmaraghav644
 - 👀 I’m interested in Data Science and ML
-- 🌱 I’m currently learning Deep Learning, ML and much more stuff
+- 🌱 I have a post-graduate diploma in ML and AI from Purdue University and a bachelors in Physics and Mathematics from University of Manitoba.
 - 📫 How to reach me ... sharmaraghav644@gmail.com
 
 <!---
