@@ -10,6 +10,9 @@ Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau
 PROJECTS:
 
 [Exploratory Data Analysis Project](https://github.com/sharmaraghav644/Feature-Engineering-Project)
+
+![EDA image](https://github.com/user-attachments/assets/11779836-5b2e-4e10-862c-2a71b0972ff2)
+
 <!---
 sharmaraghav644/sharmaraghav644 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
