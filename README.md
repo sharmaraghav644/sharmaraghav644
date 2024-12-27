@@ -7,7 +7,9 @@ Data Analysis: Machine Learning, Statistical Analysis, Feature Engineering, Risk
 Techniques & Models: Classification, Regression, Clustering, Anomaly Detection, Random Forest, CNN, ANN, Decision Trees, K-NN, SVM, Naïve Bayes, Gradient Boosting, PCA, RNN, LSTM, Computer Vision
 Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau
 
+PROJECTS:
 
+[Exploratory Data Analysis Project](https://github.com/sharmaraghav644/Feature-Engineering-Project)
 <!---
 sharmaraghav644/sharmaraghav644 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
