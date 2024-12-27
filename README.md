@@ -2,11 +2,11 @@ I am a data scientist with a strong background in physics and mathematics, combi
 
 Technical Skills:
 
-Tools & Technologies: Docker, AWS, Azure, GCP, Databricks, Snowflake, Flask, Jenkins, Postman, Kibana, Grafana, Prometheus, Sagemaker, TensorFlow, Keras, PyTorch
+Tools & Technologies: Docker, AWS, Oracle Cloud, Snowflake, Postman, Kibana, Grafana, Prometheus, Sagemaker,
 Data Analysis: Machine Learning, Statistical Analysis, Feature Engineering, Risk Analysis
 Techniques & Models: Classification, Regression, Clustering, Anomaly Detection, Random Forest, CNN, ANN, Decision Trees, K-NN, SVM, Naïve Bayes, Gradient Boosting, PCA, RNN, LSTM, Computer Vision
-Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau, Google Data Studio
-Key Skills: Fine-tuning, Feature Extraction, Data Augmentation, Hyperparameter Tuning, Regularization, BatchNorm, Ensemble Learning, Cross-Validation, Dimensionality Reduction
+Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau
+
 
 <!---
 sharmaraghav644/sharmaraghav644 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
