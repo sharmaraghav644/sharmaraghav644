@@ -11,9 +11,32 @@ PROJECTS:
 
 [Exploratory Data Analysis Project](https://github.com/sharmaraghav644/Feature-Engineering-Project)
 
-![EDA image](https://github.com/user-attachments/assets/11779836-5b2e-4e10-862c-2a71b0972ff2)
+![Screenshot 2024-12-26 at 5 25 06 PM](https://github.com/user-attachments/assets/b2bb9e22-33db-480a-9782-eab8417449e6)
 
-<!---
+
+
+[Predicting the chances of Cardiovascular disease]((https://github.com/sharmaraghav644/ml-model))
+
+![Screenshot 2024-12-26 at 5 27 20 PM](https://github.com/user-attachments/assets/0dbb1f49-ca1c-4dc7-b7ea-a558d69f35da)
+
+
+
+[Loan Default Using Deep Learning](https://github.com/sharmaraghav644/deeplearning-model)
+
+![Screenshot 2024-12-26 at 5 29 33 PM](https://github.com/user-attachments/assets/4ad68e4d-9d38-404e-a5c0-edaba4a6bb46)
+
+
+[Facial Recognition Project](https://github.com/sharmaraghav644/FacialRecognitionCNN)
+
+![Screenshot 2024-12-26 at 5 33 00 PM](https://github.com/user-attachments/assets/e946cd40-161b-4769-9e7c-a6b222bc4165)
+
+
+
+
+
+
+
+<---
 sharmaraghav644/sharmaraghav644 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
