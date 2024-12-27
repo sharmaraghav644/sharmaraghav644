@@ -15,7 +15,7 @@ PROJECTS:
 
 
 
-[Predicting the chances of Cardiovascular disease]((https://github.com/sharmaraghav644/ml-model))
+[Predicting the chances of Cardiovascular disease](https://github.com/sharmaraghav644/ml-model)
 
 ![Screenshot 2024-12-26 at 5 27 20 PM](https://github.com/user-attachments/assets/0dbb1f49-ca1c-4dc7-b7ea-a558d69f35da)
 
