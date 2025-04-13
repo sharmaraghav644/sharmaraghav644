@@ -4,6 +4,7 @@
   <h2>Hi, I'm Raghav!</h2>
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=sharmaraghav644&label=Profile%20views&color=0e75b6&style=flat)
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-sharma-b7a87a142/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://raghav-sharma.com/)
