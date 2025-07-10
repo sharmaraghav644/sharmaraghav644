@@ -9,11 +9,56 @@
 
 
 
-I am a data scientist with a strong background in physics and mathematics, combining analytical expertise with a passion for solving complex problems. I am sincere and driven to add value to organizations by leveraging advanced data analysis, machine learning techniques, and predictive modeling to uncover actionable insights and add business value.
+I am a Data Scientist and Researcher passionate about tackling complex problems at the intersection of physics, mathematics, and artificial intelligence. With a strong foundation in analytical thinking and predictive modeling, I leverage advanced data analysis and machine learning techniques to uncover actionable insights, drive business value, and explore foundational concepts in AI. My work spans practical data solutions and innovative theoretical research, pushing the boundaries of what's possible with intelligent systems.
+
+**RESEARCH & PUBLICATIONS**
+
+I am actively engaged in cutting-edge research, exploring novel theoretical frameworks and their practical applications in AI.
+
+1) *Attention as Spacetime Curvature: A General Relativistic Analogy for Language Models*
+
+Abstract: This work proposes a novel conceptual framework for understanding Transformer architectures by drawing an analogy to Einstein's General Theory of Relativity. It posits that attention mechanisms operate as geometric phenomena where important tokens "curve" the information space, influencing meaning flow much like mass and energy curve spacetime.
+
+Status: Published (July 2025)
+
+Link: https://zenodo.org/records/15718512
+
+
+2) *Time Dilation for LLM Hallucination Prevention: A Special Relativistic Approach*
+
+Abstract: This paper introduces a novel framework for preventing large language model hallucinations inspired by Einstein's special relativity, where uncertainty acts as "semantic mass" creating computational gravity wells that automatically allocate more processing time to uncertain regions.
+
+Status: Published (July 2025)
+
+Link: https://zenodo.org/records/15844897
+
+Associated Code: [Time Dilation Framework](https://github.com/sharmaraghav644/Time-Dilation-Framework)
+
+
+3) *An Analogical Framework Inspired by Quantum Entanglement for LLM Hallucination Prevention: A Dual-Network Architecture with Semantic Anti-Correlation*
+
+Abstract: This work explores quantum entanglement principles to create dual-network architectures with semantic anti-correlation, where opposing attention patterns create automatic error-correcting mechanisms rooted in attention disagreement.
+
+Status: Published (July 2025)
+
+Link: https://zenodo.org/records/15734701
+
+
+4) *Epistemic Filtering for Neural Networks: Verifying Information Before Ingestion*
+
+Abstract: This research introduces "Epistemic Filtering" - a pre-processing verification layer that evaluates truthfulness and reliability of information before it reaches LLMs, treating hallucination as an input boundary control problem.
+
+Status: Published (July 2025)
+
+Link: https://zenodo.org/records/15811822
+
+Associated Code: [Epistemic Filter Framework](https://github.com/sharmaraghav644/Epistemic-Filter-Framework)
 
 **PROJECTS**
 ---
-[Loan Default Using Deep Learning](https://github.com/sharmaraghav644/deeplearning-model)
+[Loan Default Prediction App](https://github.com/sharmaraghav644/LoanDefaultPredictionApp)
+
+An interactive loan default prediction app that combines traditional ML with GPT-2 and Retrieval-Augmented Generation (RAG) to enhance decision support and explanations.
 
 ![Screenshot 2024-12-26 at 5 29 33 PM](https://github.com/user-attachments/assets/4ad68e4d-9d38-404e-a5c0-edaba4a6bb46)
 
