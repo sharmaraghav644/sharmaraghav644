@@ -59,7 +59,7 @@ Associated Code: [Epistemic Filter Framework](https://github.com/sharmaraghav644
 ---
 [Loan Default Prediction App](https://github.com/sharmaraghav644/LoanDefaultPredictionApp)
 
-An interactive loan default prediction app that combines traditional ML with GPT-2 and Retrieval-Augmented Generation (RAG) to enhance decision support and explanations.
+Deployed a real-time loan default risk prediction system as a Streamlit app, integrating multiple models (Random Forest, XGBoost). Implemented data preprocessing and feature engineering to improve model accuracy. Used Retrieval-Augmented Generation (RAG) to fetch relevant resources based on user input, which were then passed to GPT to generate clear, human-readable risk explanations. CI/CD enabled via GitHub Actions, with Dockerized deployment on AWS for scalability and reliability. Designed a user-friendly interface for effective risk assessment.
 
 ![Screenshot 2024-12-26 at 5 29 33 PM](https://github.com/user-attachments/assets/4ad68e4d-9d38-404e-a5c0-edaba4a6bb46)
 
@@ -67,17 +67,23 @@ An interactive loan default prediction app that combines traditional ML with GPT
 
 [Facial Recognition Project](https://github.com/sharmaraghav644/FacialRecognitionCNN)
 
+Built a CNN-based facial recognition system with advanced preprocessing and model optimization (batch norm, dropout). Developed a real-time detection pipeline using TensorFlow Lite for edge deployment.
+
 ![Screenshot 2024-12-26 at 5 33 00 PM](https://github.com/user-attachments/assets/e946cd40-161b-4769-9e7c-a6b222bc4165)
 
 
 
 [Predicting the chances of Cardiovascular disease](https://github.com/sharmaraghav644/ml-model)
 
+Predicted cardiovascular risk using medical images. Applied image enhancement and statistical feature selection. Trained and evaluated models for classification accuracy.
+
 ![Screenshot 2024-12-26 at 5 27 20 PM](https://github.com/user-attachments/assets/0dbb1f49-ca1c-4dc7-b7ea-a558d69f35da)
 
 
 
 [Exploratory Data Analysis Project](https://github.com/sharmaraghav644/Feature-Engineering-Project)
+
+Performed EDA and built dashboards to visualize real estate pricing trends. Engineered features to improve model accuracy and pricing strategy insights.
 
 ![Screenshot 2024-12-26 at 5 25 06 PM](https://github.com/user-attachments/assets/b2bb9e22-33db-480a-9782-eab8417449e6)
 
