@@ -12,6 +12,7 @@
 I am a Data Scientist and Researcher passionate about tackling complex problems at the intersection of physics, mathematics, and artificial intelligence. With a strong foundation in analytical thinking and predictive modeling, I leverage advanced data analysis and machine learning techniques to uncover actionable insights, drive business value, and explore foundational concepts in AI. My work spans practical data solutions and innovative theoretical research, pushing the boundaries of what's possible with intelligent systems.
 
 **RESEARCH & PUBLICATIONS**
+--
 
 I am actively engaged in cutting-edge research, exploring novel theoretical frameworks and their practical applications in AI.
 
